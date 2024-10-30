@@ -26,7 +26,7 @@ To use these scripts, you'll need:
 Each script is documented with comments to explain its functionality. To run a script, simply clone this repository and execute the desired script in PowerShell.
 
 ```bash
-git clone https://github.com/yourusername/your-repo-name.git
+git clone [https://github.com/yourusername/your-repo-name.git](https://github.com/sulimoha/PowerShell.git)
 cd your-repo-name
 .\your-script.ps1
 ```
