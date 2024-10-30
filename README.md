@@ -27,8 +27,8 @@ Each script is documented with comments to explain its functionality. To run a s
 
 ```bash
 git clone [https://github.com/yourusername/your-repo-name.git](https://github.com/sulimoha/PowerShell.git)
-cd your-repo-name
-.\your-script.ps1
+cd Update-AzureADUsers
+.\Update-AzureADUsers.ps1
 ```
 
 ## Contributing
