@@ -1,0 +1,12 @@
+# Ignore PowerShell specific files
+*.ps1
+*.psm1
+*.psd1
+
+# Ignore VS Code specific files
+.vscode/
+*.code-workspace
+
+# Ignore other common files
+*.log
+*.tmp
