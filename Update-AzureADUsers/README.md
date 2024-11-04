@@ -152,3 +152,17 @@ foreach ($row in $excelData) {
 ### Summary
 This script automates the process of updating job titles and managers in Azure AD based on data from an Excel file. It ensures that the specified job titles and managers are correctly applied to the users in your organization.
 
+## Author
+
+**Mohamed Suliman**
+
+- **LinkedIn**: https://www.linkedin.com/in/mohamed-suliman-o/
+
+## License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+---
+
+Thank you for visiting my repository! I hope you find these scripts useful for your own tasks and projects.
+
