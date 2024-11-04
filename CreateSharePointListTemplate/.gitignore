@@ -10,3 +10,6 @@
 # Ignore other common files
 *.log
 *.tmp
+
+# Ignore XML files
+*.XML
