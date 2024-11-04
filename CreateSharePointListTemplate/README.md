@@ -4,7 +4,10 @@ This repository contains a PowerShell script to create a SharePoint list templat
 ## Prerequisites
 1. **Install VS Code**: If you haven't already, download and install Visual Studio Code.
 2. **Install PowerShell Extension**: In VS Code, go to the Extensions view by clicking the Extensions icon in the Activity Bar on the side of the window. Search for "PowerShell" and install the extension.
-3. **Install SharePoint Online Management Shell**: You can download it from the Microsoft Download Center.
+3. **Install SharePoint Online Management Shell**: You can download it from the Microsoft Download Center or run the following command to install the SharePoint Online Management Shell module from the PowerShell Gallery:
+```powershell
+Install-Module -Name Microsoft.Online.SharePoint.PowerShell -Force -Scope CurrentUser
+```
 
 ## Steps:
 
